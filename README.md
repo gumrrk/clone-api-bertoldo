@@ -31,3 +31,5 @@
 <p>
   Caso sua API comece a apresentar comportamentos estranhos, vá até o terminal onde ela está executando e aperte <code>ctrl + C</code>, isso fará com que a API pare de executar, então digite o comando <code>npm run dev</code> novamente e verifique se ela voltou a se comportar normalmente, caso isso não resolva o problema entre em contato com a equipe de ensino.
 </p>
+
+## Todos os direitos desta API são reservados ao criador da mesma Rafael Bertoldo (rafael-bertoldo).
