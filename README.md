@@ -1,5 +1,3 @@
-<h1>Kenzie Empresas API</h1>
-
 <p>Para utilização desta API você precisa seguir os seguintes passos:</p>
 
 <ol>
