@@ -33,4 +33,4 @@
 </p>
 
 # Licença
-### Todos os direitos desta API são reservados ao criador da mesma Rafael Bertoldo (rafael-bertoldo).
+### Todos os direitos desta API são reservados ao criador da mesma: Rafael Bertoldo (rafael-bertoldo).
